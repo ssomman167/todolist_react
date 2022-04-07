@@ -5,6 +5,8 @@
   margin:auto;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 30px;
+  margin-top: 30px;
   
 }
 
@@ -38,4 +40,12 @@
   font-weight: bold;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color:rgb(151, 50, 151)
+}
+
+.todostyle{
+  display: flex;
+  margin: 20px;
+}
+.lili{
+  margin-left: 50px;
 }
